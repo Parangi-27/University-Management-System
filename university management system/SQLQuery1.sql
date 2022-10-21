@@ -1,0 +1,1 @@
+﻿Insert into registration(Fname,Lname,Email,Phone,Password) VALUES('sakshi','prajapati','saksh2643',1234,'1234');
